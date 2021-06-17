@@ -1,16 +1,11 @@
 # contador_pessoas
+![]()
 
-A new Flutter project.
+# Agrupamento
+  Este projeto é o primeiro durante o aprendizado de flutter. Fará parte do agrupamente Saga_Flutter
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Funcionalidade
+  O projeto consiste em uma aplicação simples destinada a contabilização de pessoas em determinado ambiente. 
+  Ao apertar nos botões +1 ou -1 pode alterar o valor apresentado em tela. </br>
+  Ao assumir valores menores que 0, maiores 0 ou maiores que 10, há uma mudança na mensagem apresentada em tela.
+  
